@@ -1,4 +1,3 @@
-> 
 <html>
 <head>
     <title>centro polivalente de artes</title>
